@@ -90,7 +90,3 @@ Exemplos usando a temporada **2**:
 ## 🤝 Contribuindo
 
 Encontrou um padrão de nome que não é reconhecido? Abra uma *issue* com o nome do arquivo de exemplo (ou um *pull request* adicionando o padrão na função `detectar`).
-
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
